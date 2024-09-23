@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MursikVar/crypto-test/static/css/main.28008fac.css",
-    "main.js": "/MursikVar/crypto-test/static/js/main.3f72feb5.js",
-    "static/media/FirstPhoto.png": "/MursikVar/crypto-test/static/media/FirstPhoto.07c2c7ff7bb8392bcc0e.png",
-    "static/media/form-img.jpg": "/MursikVar/crypto-test/static/media/form-img.30e5d8edbba1198d17c3.jpg",
-    "static/media/fond.svg": "/MursikVar/crypto-test/static/media/fond.7ccf5d0fceec6cbe2926644839a904be.svg",
-    "static/media/about.jpg": "/MursikVar/crypto-test/static/media/about.d5b4c5ee995d09aea8dd.jpg",
-    "static/media/mission.jpg": "/MursikVar/crypto-test/static/media/mission.4e9659af285a342a5135.jpg",
-    "static/media/Footer-logo.svg": "/MursikVar/crypto-test/static/media/Footer-logo.00bfd9f673727a534af10ec36f99e4ee.svg",
-    "static/media/logo.svg": "/MursikVar/crypto-test/static/media/logo.c7f7519db27f771a4d1d990d448f81b4.svg",
-    "static/media/Telegram App.svg": "/MursikVar/crypto-test/static/media/Telegram App.a4c336c58af70e7f97fe9701fccb627c.svg",
-    "index.html": "/MursikVar/crypto-test/index.html",
-    "static/media/Arrow.svg": "/MursikVar/crypto-test/static/media/Arrow.b163b99edcbaec44b4b8aa9fedbfc4d0.svg",
-    "static/media/pluse.svg": "/MursikVar/crypto-test/static/media/pluse.7c90f5f789ff100bfbc5ae66934f4255.svg",
-    "main.28008fac.css.map": "/MursikVar/crypto-test/static/css/main.28008fac.css.map",
-    "main.3f72feb5.js.map": "/MursikVar/crypto-test/static/js/main.3f72feb5.js.map"
+    "main.css": "/MursikVar/project_test/static/css/main.28008fac.css",
+    "main.js": "/MursikVar/project_test/static/js/main.b4ab3b56.js",
+    "static/media/FirstPhoto.png": "/MursikVar/project_test/static/media/FirstPhoto.07c2c7ff7bb8392bcc0e.png",
+    "static/media/form-img.jpg": "/MursikVar/project_test/static/media/form-img.30e5d8edbba1198d17c3.jpg",
+    "static/media/fond.svg": "/MursikVar/project_test/static/media/fond.7ccf5d0fceec6cbe2926644839a904be.svg",
+    "static/media/about.jpg": "/MursikVar/project_test/static/media/about.d5b4c5ee995d09aea8dd.jpg",
+    "static/media/mission.jpg": "/MursikVar/project_test/static/media/mission.4e9659af285a342a5135.jpg",
+    "static/media/Footer-logo.svg": "/MursikVar/project_test/static/media/Footer-logo.00bfd9f673727a534af10ec36f99e4ee.svg",
+    "static/media/logo.svg": "/MursikVar/project_test/static/media/logo.c7f7519db27f771a4d1d990d448f81b4.svg",
+    "static/media/Telegram App.svg": "/MursikVar/project_test/static/media/Telegram App.a4c336c58af70e7f97fe9701fccb627c.svg",
+    "index.html": "/MursikVar/project_test/index.html",
+    "static/media/Arrow.svg": "/MursikVar/project_test/static/media/Arrow.b163b99edcbaec44b4b8aa9fedbfc4d0.svg",
+    "static/media/pluse.svg": "/MursikVar/project_test/static/media/pluse.7c90f5f789ff100bfbc5ae66934f4255.svg",
+    "main.28008fac.css.map": "/MursikVar/project_test/static/css/main.28008fac.css.map",
+    "main.b4ab3b56.js.map": "/MursikVar/project_test/static/js/main.b4ab3b56.js.map"
   },
   "entrypoints": [
     "static/css/main.28008fac.css",
-    "static/js/main.3f72feb5.js"
+    "static/js/main.b4ab3b56.js"
   ]
 }
