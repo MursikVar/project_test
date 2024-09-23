@@ -1,0 +1,11 @@
+.fond__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fond__inner-text{
+    max-width: 370px;
+    font-size: 48px;
+    font-weight: 500;
+}
